@@ -1,4 +1,13 @@
-### Hi there 👋
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 👋
+
+- 🔭 I <font color="red">❤</font> Open Source and [Go](https://golang.org/)
+- 📫 How to reach me: [Email](1834924958@qq.com)
+
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=vue-dark)
+ 
+[![Github](https://img.shields.io/github/followers/1834924958?label=Follow&style=social)](https://github.com/1834924958)
+
 
 <!--
 **1834924958/1834924958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=tokyonight)
