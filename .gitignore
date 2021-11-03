@@ -1,0 +1,4 @@
+#忽略信息调整
+.DS_Store
+.idea
+.vscode
