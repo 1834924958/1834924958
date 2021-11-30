@@ -3,11 +3,12 @@
 - 🔭 I <font color="red">❤</font> Open Source and [Go](https://golang.org/)
 - 📫 How to reach me: [Email](1834924958@qq.com)
 
-
-![1834924958's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=vue-dark)
-
  <p align="center">
+ 
+ ![1834924958's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=vue-dark)
+ <br/><br/>
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=1834924958&column=7" alt="1834924958's Github Trophy" />
+ 
  </p>
  
 [![Github](https://img.shields.io/github/followers/1834924958?label=Follow&style=social)](https://github.com/1834924958)
