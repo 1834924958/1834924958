@@ -14,9 +14,11 @@
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=1834924958&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  </p>
  
-
 [![Github](https://img.shields.io/github/followers/1834924958?label=Follow&style=social)](https://github.com/1834924958)
 
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <!--
 **1834924958/1834924958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
