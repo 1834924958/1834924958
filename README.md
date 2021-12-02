@@ -7,10 +7,12 @@
  
   |   ![1834924958's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1834924958&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- | 
- <br/><br/>
+ 
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=1834924958&column=7&margin-w=20&theme=juicyfresh" alt="1834924958's Github Trophy" />
   <br/><br/>
+  
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=1834924958&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
  </p>
  
 [![Github](https://img.shields.io/github/followers/1834924958?label=Follow&style=social)](https://github.com/1834924958)
