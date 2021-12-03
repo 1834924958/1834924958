@@ -5,6 +5,8 @@
 
  <p align="center">
  
+ [![GitHub Game of Life](https://github4life.herokuapp.com/1834924958.gif?z=6)](https://github4life.herokuapp.com/1834924958)
+ 
   |   ![1834924958's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1834924958&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- | 
  
@@ -16,6 +18,7 @@
  </p>
  
 [![Github](https://img.shields.io/github/followers/1834924958?label=Follow&style=social)](https://github.com/1834924958)
+
 
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
