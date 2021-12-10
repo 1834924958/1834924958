@@ -12,12 +12,12 @@
 
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=1834924958&column=7&margin-w=20&theme=juicyfresh" alt="1834924958's Github Trophy" />
 
-  <br/><br/>
+  <br/>
 
-  |   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1834924958&theme=solarized_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1834924958&theme=solarized_dark)     |
+  |   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1834924958&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1834924958&theme=github_dark)     |
  | --- | --- |
 
-   |   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1834924958&theme=solarized_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1834924958&theme=solarized_dark)     |
+   |   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1834924958&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1834924958&theme=github_dark)     |
  | --- | --- |
 
 
