@@ -4,19 +4,27 @@
 - 📫 How to reach me: [Email](1834924958@qq.com)
 
  <p align="center">
- 
+
  [![GitHub Game of Life](https://github4life.herokuapp.com/1834924958.gif?z=6)](https://github4life.herokuapp.com/1834924958)
- 
+
   |   ![1834924958's GitHub stats](https://github-readme-stats.vercel.app/api?username=1834924958&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1834924958&theme=nightowl)](https://git.io/streak-stats)     |
- | --- | --- | 
- 
+ | --- | --- |
+
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=1834924958&column=7&margin-w=20&theme=juicyfresh" alt="1834924958's Github Trophy" />
+
   <br/><br/>
-  
+
+  |   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1834924958&theme=solarized_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1834924958&theme=solarized_dark)     |
+ | --- | --- |
+
+   |   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1834924958&theme=solarized_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1834924958&theme=solarized_dark)     |
+ | --- | --- |
+
+
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=1834924958&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+
  </p>
- 
+
 [![Github](https://img.shields.io/github/followers/1834924958?label=Follow&style=social)](https://github.com/1834924958)
 
 
